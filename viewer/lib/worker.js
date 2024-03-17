@@ -84,4 +84,5 @@ setInterval(() => {
   }
   // const time = performance.now() - start
   // console.log(`Processed ${sections.length} sections in ${time} ms (${time / sections.length} ms/section)`)
-}, 50)
+  // increase framerate
+}, 20)
